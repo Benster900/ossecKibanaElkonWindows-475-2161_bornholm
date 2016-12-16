@@ -1,7 +1,5 @@
 #!/bin/bash
 # Author Ben Bornholm
-# Source: https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-centos-7
-# Source: https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-16-04
 
 set -x
 set -e
